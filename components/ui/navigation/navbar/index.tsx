@@ -11,7 +11,7 @@ const Navbar = () => {
           src="/images/site-logo.svg"
           width={23}
           height={23}
-          alt="DevFlow Logo"
+          alt="ChampionsQ Logo"
         />
         <p className="h2-bold font-space-grotesk text-dark-100 dark:text-light-900 max-sm:hidden">
           Champions<span className="text-primary-500">Q</span>
